@@ -1,0 +1,3 @@
+*.o
+./build
+mbio/common/cmake_config.h
